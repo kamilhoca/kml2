@@ -7,26 +7,15 @@ More information about this will be found in the TvDatafeedLive section down bel
 
 A simple TradingView historical Data Downloader. Tvdatafeed allows downloading upto 5000 bars on any of the supported timeframe.
 
-If you found the content useful and want to support my work, you can buy me a coffee!
-[![](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/StreamAlpha)
 
 ## Installation
 
 This module can be installed from github repo
 
 ```sh
-pip install --upgrade --no-cache-dir git+https://github.com/rongardF/tvdatafeed.git
+pip install --upgrade --no-cache-dir git+https://github.com/kamilhoca/kml2.git
 ```
 
-For usage instructions, watch these videos-
-
-v1.2 tutorial with installation and backtrader usage
-
-[![Watch the video](https://img.youtube.com/vi/f76dOZW2gwI/hqdefault.jpg)](https://youtu.be/f76dOZW2gwI)
-
-Full tutorial
-
-[![Watch the video](https://img.youtube.com/vi/qDrXmb2ZRjo/hqdefault.jpg)](https://youtu.be/qDrXmb2ZRjo)
 
 ---
 
